@@ -19,7 +19,7 @@ Colour
 `git config --global color.ui auto`
 
 
-### Create
+### Starting the work
 ---
 Initialising a local repository 
 `git init`
