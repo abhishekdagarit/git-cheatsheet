@@ -1,23 +1,23 @@
 # git-cheatsheet
 
-###Create
+### Create
 
 
-###Commit
+### Commit
 
 
-###Local 
-
-
-
-###Remote
+### Local 
 
 
 
-###Branches
+### Remote
 
 
-###Merge
+
+### Branches
 
 
-###Undo
+### Merge
+
+
+### Undo
