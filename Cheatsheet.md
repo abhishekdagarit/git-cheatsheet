@@ -1,6 +1,6 @@
 # Git Cheatsheet
 
-###Download
+### Download
 ---
 Visit the [Downloads](https://git-scm.com/downloads) page and select your operating system. 
 
