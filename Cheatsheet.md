@@ -21,6 +21,11 @@ Colour
 
 ### Create
 ---
+Initialising a local repository 
+`git init`
+
+Starting off from a remote repository
+`git clone [url]`
 
 
 ### Commit
