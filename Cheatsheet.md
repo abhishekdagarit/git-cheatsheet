@@ -77,6 +77,17 @@ Show **information** on remotes
 &nbsp;
 ### Branches
 ---
+Check where you are
+`git branch -av`
+
+Create a new branch
+`git branch <branch's name>`
+
+Checkout a branch
+`git checkout <branch's name>`
+
+Delete a branch
+`git branch -d <branch's name>`
 
 
 &nbsp;
