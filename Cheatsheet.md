@@ -37,9 +37,25 @@ Starting off from a remote repository
 ---
 
 
-### Remote
+### Dealing with remote 
 ---
+Checking all the existing remotes
+`git remote -v`
 
+Show information on remotes
+`git remote show <remote's name>`
+
+Adding a remote 
+`git add remote <remote's name - usually named origin> <url>`
+
+Removing a remote 
+`git remove rm <remote's name>`
+
+Pulling changes from a remote i.e. bringing the remote git to local system
+`git pull <remote's name> <branch's name>`
+
+Pushing changes to a remote i.e. sending local git to remote
+`git push <remote's name> <branch's name>`
 
 ### Branches
 ---
