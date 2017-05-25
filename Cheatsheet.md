@@ -1,12 +1,16 @@
 # Git Cheatsheet
 
+&nbsp;
+&nbsp;
+&nbsp;
 ### Download
 ---
 Visit the [Downloads](https://git-scm.com/downloads) page and select your operating system. 
 
 Mac already has git preinstalled. Windows and others can also get it. Pretty straight forward installation. No hidden ways. Just plain out standard shit. 
 
-
+&nbsp;
+&nbsp;
 ### Linking local git to a remote one/Config
 ---
 **Username**
@@ -18,7 +22,8 @@ Mac already has git preinstalled. Windows and others can also get it. Pretty str
 **Colour**
 `git config --global color.ui auto`
 
-
+&nbsp;
+&nbsp;
 ### Starting the work
 ---
 **Initialising** a local repository 
@@ -27,7 +32,8 @@ Mac already has git preinstalled. Windows and others can also get it. Pretty str
 **Starting** off from a remote repository
 `git clone [url]`
 
-
+&nbsp;
+&nbsp;
 ### Saving local changes 
 ---
 **Check** the status. Where you are, what's left to commit, which files were edited.
@@ -45,7 +51,8 @@ Committing **last** added changes
 Checking the commmit **history**
 `git log`
 
-
+&nbsp;
+&nbsp;
 ### Dealing with remote 
 ---
 Checking all the **existing** remotes
@@ -66,15 +73,19 @@ Show **information** on remotes
 **Pushing** changes to a remote i.e. sending local git to remote
 `git push <remote's name> <branch's name>`
 
+&nbsp;
+&nbsp;
 ### Branches
 ---
 
 
-
+&nbsp;
+&nbsp;
 ### Merge
 ---
 
-
+&nbsp;
+&nbsp;
 ### Undo
 ---
 
