@@ -28,13 +28,22 @@ Starting off from a remote repository
 `git clone [url]`
 
 
-### Commit
+### Saving local changes 
 ---
+Check the status. Where you are, what's left to commit, which files were edited.
+`git status`
 
+See the difference. What's new. 
+`git diff`
 
+Getting changes ready for saving.  
+`git add .`
 
-### Local 
----
+Committing last added changes
+`git commit -m "message for commit"`
+
+Checking the commmit history
+`git log`
 
 
 ### Dealing with remote 
